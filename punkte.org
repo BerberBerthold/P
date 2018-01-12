@@ -1,54 +1,54 @@
-| Name                        | Matrikelnummer |  0 |  1 |  2 |  3 |
-|-----------------------------+----------------+----+----+----+----|
-| Eugenia Rosentzweig         |         365362 |  7 |  6 |  7 |  8 |
-| Alessandro Bramceai         |         381758 |    |    |  7 |  8 |
-| Katharina Brasch            |         376332 | 15 | 12 | 14 | 13 |
-| Valgetur Helgafaljdsa       |         376425 | 15 | 12 | 14 | 13 |
-| Charlotte Reimers           |         382080 | 16 | 14 | 17 | 16 |
-| Tobias Winterhager          |         381248 | 16 | 14 | 17 | 16 |
-| Samuel Hartmann             |         382517 |  9 |  9 |  4 |  6 |
-| Philipp Wiedermeyer         |         380806 |  9 |  9 |  4 |  6 |
-| Nikita Venelkjsa            |         382278 |  9 |  9 |  4 |  6 |
-| Sandro Erras                |         381837 | 17 | 19 |    |    |
-| Maximilian Pschigode        |         381336 | 17 | 19 |    |    |
-| Chien Thang Nguyen          |         379384 | 11 |  7 |  7 | 13 |
-| Miguel Medina Garcia        |         386309 | 11 |  7 |  7 | 13 |
-| Thomas Schauer              |         363324 | 16 |    |  7 | 12 |
-| Lisa Schottstaedt           |         374406 | 16 |    |  7 | 12 |
-| Efraim Orland               |         360813 |  9 | 13 |    | 12 |
-| Zesen Ma                    |         360813 |  9 | 13 |    | 12 |
-| Stefan Libuda               |         353464 |  9 | 13 |    | 12 |
-| Gabriel Perez Cerezo        |         386928 | 11 | 16 | 12 | 11 |
-| Maya Abed                   |         385504 | 11 | 16 | 12 | 11 |
-| Lea                         |         384761 | 11 |    |    | 11 |
-| Lotte Schnell               |         380915 | 18 | 19 |  9 | 15 |
-| Hanna Grossmann             |                | 18 | 19 |  9 | 15 |
-| Reno Riffert                |         367018 |  5 |  6 |  6 | 11 |
-| Mustafa Kirmizigai          |         377055 |  5 |  6 |  6 | 11 |
-| Manuel Blinkert             |         379097 | 10 |  9 | 11 | 13 |
-| Jekatarina Kutscher         |         343612 | 10 |  9 | 11 | 13 |
-| Ilma Caku                   |         387183 | 13 |  9 |  8 | 16 |
-| Tsenduren Bayarmagnai       |         374703 | 13 |  9 |  8 | 16 |
-| Eugenia Sinatti             |         378487 |  9 | 13 |  6 | 10 |
-| Minh-Tram Nguyen            |         371789 |  9 | 13 |  6 | 10 |
-| Pauline Roehr               |         381899 | 11 | 17 |  6 | 15 |
-| Roman Wolfgramm             |         382042 | 11 | 17 |  6 | 15 |
-| Valerian Kurowski           |         382676 | 11 | 17 |  9 |    |
-| Phi Leonhard Vo             |         381241 | 11 | 17 |  9 |    |
-| Nadine Peter                |         039422 | 13 | 14 | 11 | 17 |
-| Fritz Geis                  |         374257 | 13 | 14 | 11 | 17 |
-| Noor-Cella Bena             |         386301 | 13 | 14 | 11 | 17 |
-| Leon Ludwig                 |         382500 | 17 | 16 |  5 |  7 |
-| Miriam Kliemann             |         381868 | 17 | 16 |  5 |  7 |
-| Ina Meyer zu Altensejklfs   |         381736 | 17 | 16 |  5 |  7 |
-| Andre Scheiffer             |         357544 |  9 | 14 |  6 | 10 |
-| Cansu Kegici                |         342465 |  9 | 14 |  6 | 10 |
-| Michel Hubsch               |         380200 |  9 | 14 |  6 | 10 |
-| Leander Schnee              |         380917 | 18 | 17 | 18 | 10 |
-| Christian Kipp              |         381825 | 18 | 17 | 18 | 10 |
-| Chris Wolf                  |         353653 |  6 | 11 |  8 |  7 |
-| Thuong Anna Nguyen          |         359326 |  6 | 11 |  8 |  7 |
-| Georg Waernberger           |         371414 |    | 13 | 10 |  5 |
-| Fabio Schueff               |         359805 |    | 13 | 10 |  5 |
-| Waldo Heoriag Llanos        |         372281 |    | 14 |  8 | 12 |
-| Fransico Majon-Cabza Garcia |         369293 |    | 14 |  8 | 12 |
+| Name                        | Matrikelnummer |  0 |    1 |  2 |  3 |  4 |  5 |
+|-----------------------------+----------------+----+------+----+----+----+----|
+| Eugenia Rosentzweig         |         365362 |  7 |    6 |  7 |  8 |    |    |
+| Alessandro Bramceai         |         381758 |    |      |  7 |  8 |    |    |
+| Katharina Brasch            |         376332 | 15 |   12 | 14 | 13 | 16 | 19 |
+| Valgetur Helgafaljdsa       |         376425 | 15 |   12 | 14 | 13 | 16 | 19 |
+| Charlotte Reimers           |         382080 | 16 |   14 | 17 | 16 | 18 |  9 |
+| Tobias Winterhager          |         381248 | 16 |   14 | 17 | 16 | 18 |  9 |
+| Samuel Hartmann             |         382517 |  9 |    9 |  4 |  6 | 14 | 16 |
+| Philipp Wiedermeyer         |         380806 |  9 |    9 |  4 |  6 | 14 | 16 |
+| Nikita Venelkjsa            |         382278 |  9 |    9 |  4 |  6 | 14 | 16 |
+| Sandro Erras                |         381837 | 17 |   19 |    |    |    |    |
+| Maximilian Pschigode        |         381336 | 17 |   19 |    |    |    |    |
+| Chien Thang Nguyen          |         379384 | 11 |    7 |  7 | 13 | 17 | 14 |
+| Miguel Medina Garcia        |         386309 | 11 |    7 |  7 | 13 | 17 | 14 |
+| Thomas Schauer              |         363324 | 16 | 10,5 |  7 | 12 | 17 | 12 |
+| Lisa Schottstaedt           |         374406 | 16 | 10,5 |  7 | 12 | 17 | 12 |
+| Efraim Orland               |         360813 |  9 |   13 |    | 12 |  8 | 10 |
+| Zesen Ma                    |         360813 |  9 |   13 |    | 12 |  8 | 10 |
+| Stefan Libuda               |         353464 |  9 |   13 |    | 12 |  8 | 10 |
+| Gabriel Perez Cerezo        |         386928 | 11 |   16 | 12 | 11 | 18 | 16 |
+| Maya Abed                   |         385504 | 11 |   16 | 12 | 11 | 18 | 16 |
+| Lea                         |         384761 | 11 |      |    | 11 |    | 16 |
+| Lotte Schnell               |         380915 | 18 |   19 |  9 | 15 | 17 | 15 |
+| Hanna Grossmann             |                | 18 |   19 |  9 | 15 | 17 | 15 |
+| Reno Riffert                |         367018 |  5 |    6 |  6 | 11 |    |    |
+| Mustafa Kirmizigai          |         377055 |  5 |    6 |  6 | 11 |    |    |
+| Manuel Blinkert             |         379097 | 10 |    9 | 11 | 13 | 15 | 18 |
+| Jekatarina Kutscher         |         343612 | 10 |    9 | 11 | 13 | 15 | 18 |
+| Ilma Caku                   |         387183 | 13 |   10 |  8 | 16 | 15 | 18 |
+| Tsenduren Bayarmagnai       |         374703 | 13 |   10 |  8 | 16 | 15 | 18 |
+| Eugenia Sinatti             |         378487 |  9 |   13 |  6 | 10 | 17 | 17 |
+| Minh-Tram Nguyen            |         371789 |  9 |   13 |  6 | 10 | 17 | 17 |
+| Pauline Roehr               |         381899 | 11 |   17 |  6 | 15 | 14 |  8 |
+| Roman Wolfgramm             |         382042 | 11 |   17 |  6 | 15 | 14 |  8 |
+| Valerian Kurowski           |         382676 | 11 |   17 |  9 |    | 14 |  9 |
+| Phi Leonhard Vo             |         381241 | 11 |   17 |  9 |    | 14 |  9 |
+| Nadine Peter                |         039422 | 13 |   14 | 11 | 17 | 14 | 18 |
+| Fritz Geis                  |         374257 | 13 |   14 | 11 | 17 | 14 | 18 |
+| Noor-Cella Bena             |         386301 | 13 |   14 | 11 | 17 | 14 | 18 |
+| Leon Ludwig                 |         382500 | 17 |   16 |  5 |  7 | 14 | 16 |
+| Miriam Kliemann             |         381868 | 17 |   16 |  5 |  7 | 14 | 16 |
+| Ina Meyer zu Altensejklfs   |         381736 | 17 |   16 |  5 |  7 | 14 | 16 |
+| Andre Scheiffer             |         357544 |  9 |   14 |  6 | 10 | 18 | 14 |
+| Cansu Kegici                |         342465 |  9 |   14 |  6 | 10 | 18 | 14 |
+| Michel Hubsch               |         380200 |  9 |   14 |  6 | 10 | 18 | 14 |
+| Leander Schnee              |         380917 | 18 |   17 | 18 | 10 | 13 |  5 |
+| Christian Kipp              |         381825 | 18 |   17 | 18 | 10 | 13 |  5 |
+| Chris Wolf                  |         353653 |  6 |   11 |  8 |  7 | 17 | 12 |
+| Thuong Anna Nguyen          |         359326 |  6 |   11 |  8 |  7 | 17 | 12 |
+| Georg Waernberger           |         371414 |    |   13 | 10 |  5 | 14 | 17 |
+| Fabio Schueff               |         359805 |    |   13 | 10 |  5 | 14 | 17 |
+| Waldo Heoriag Llanos        |         372281 |    |   14 |  8 | 12 | 17 | 16 |
+| Fransico Majon-Cabza Garcia |         369293 |    |   14 |  8 | 12 | 17 | 16 |
