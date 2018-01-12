@@ -1,0 +1,64 @@
+| Name                        | Matrikelnummer | TP |  0 |    1 |  2 |  3 |  4 |  5 |  6 |  7 |
+|-----------------------------+----------------+----+----+------+----+----+----+----+----+----|
+| Eugenia Rosentzweig         |         365362 |    |  7 |    6 |  7 |  8 |    |    |    |    |
+| Alessandro Bramceai         |         381758 |    |    |      |  7 |  8 |    |    |    |    |
+| Katharina Brasch            |         376332 |    | 15 |   12 | 14 | 13 | 16 | 19 |    | 12 |
+| Valgetur Helgafaljdsa       |         376425 |    | 15 |   12 | 14 | 13 | 16 | 19 |    | 12 |
+| Charlotte Reimers           |         382080 |  3 | 16 |   14 | 17 | 16 | 18 |  9 |    | 19 |
+| Tobias Winterhager          |         381248 |  3 | 16 |   14 | 17 | 16 | 18 |  9 |    | 19 |
+| Samuel Hartmann             |         382517 |    |  9 |    9 |  4 |  6 | 14 | 16 | 15 | 12 |
+| Philipp Wiedermeyer         |         380806 |    |  9 |    9 |  4 |  6 | 14 | 16 | 15 | 12 |
+| Nikita Venelkjsa            |         382278 |    |  9 |    9 |  4 |  6 | 14 | 16 | 15 | 12 |
+| Sandro Erras                |         381837 |    | 17 |   19 |    |    |    |    |    |    |
+| Maximilian Pschigode        |         381336 |    | 17 |   19 |    |    |    |    |    |    |
+| Chien Thang Nguyen          |         379384 |    | 11 |    7 |  7 | 13 | 17 | 14 | 10 | 17 |
+| Miguel Medina Garcia        |         386309 |    | 11 |    7 |  7 | 13 | 17 | 14 | 10 | 17 |
+| Thomas Schauer              |         363324 |    | 16 | 10,5 |  7 | 12 | 17 | 12 |    | 15 |
+| Lisa Schottstaedt           |         374406 |    | 16 | 10,5 |  7 | 12 | 17 | 12 |    | 15 |
+| Efraim Orland               |         360813 |    |  9 |   13 |    | 12 |  8 | 10 | 14 |    |
+| Zesen Ma                    |         360813 |    |  9 |   13 |    | 12 |  8 | 10 | 14 |    |
+| Stefan Libuda               |         353464 |    |  9 |   13 |    | 12 |  8 | 10 | 14 |    |
+| Gabriel Perez Cerezo        |         386928 |    | 11 |   16 | 12 | 11 | 18 | 16 |    |    |
+| Maya Abed                   |         385504 |    | 11 |   16 | 12 | 11 | 18 | 16 |    |    |
+| Lea                         |         384761 |    | 11 |      |    | 11 |    | 16 |    |    |
+| Lotte Schnell               |         380915 |  1 | 18 |   19 |  9 | 15 | 17 | 15 |  7 | 19 |
+| Hanna Grossmann             |                |  1 | 18 |   19 |  9 | 15 | 17 | 15 |  7 | 19 |
+| Reno Riffert                |         367018 |    |  5 |    6 |  6 | 11 |    |    |    |    |
+| Mustafa Kirmizigai          |         377055 |    |  5 |    6 |  6 | 11 |    |    |    |    |
+| Manuel Blinkert             |         379097 |    | 10 |    9 | 11 | 13 | 15 | 18 |  8 | 12 |
+| Jekatarina Kutscher         |         343612 |    | 10 |    9 | 11 | 13 | 15 | 18 |  8 | 12 |
+| Ilma Caku                   |         387183 |    | 13 |   10 |  8 | 16 | 15 | 18 |    | 17 |
+| Tsenduren Bayarmagnai       |         374703 |    | 13 |   10 |  8 | 16 | 15 | 18 |    | 17 |
+| Eugenia Sinatti             |         378487 |    |  9 |   13 |  6 | 10 | 17 | 17 |  5 | 10 |
+| Minh-Tram Nguyen            |         371789 |    |  9 |   13 |  6 | 10 | 17 | 17 |  5 | 10 |
+| Pauline Roehr               |         381899 |    | 11 |   17 |  6 | 15 | 14 |  8 |  6 | 14 |
+| Roman Wolfgramm             |         382042 |    | 11 |   17 |  6 | 15 | 14 |  8 |  6 | 14 |
+| Valerian Kurowski           |         382676 |    | 11 |   17 |  9 |    | 14 |  9 |    | 16 |
+| Phi Leonhard Vo             |         381241 |    | 11 |   17 |  9 |    | 14 |  9 |    | 16 |
+| Nadine Peter                |         039422 |    | 13 |   14 | 11 | 17 | 14 | 18 |  9 | 13 |
+| Fritz Geis                  |         374257 |    | 13 |   14 | 11 | 17 | 14 | 18 |  9 | 13 |
+| Noor-Cella Bena             |         386301 |    | 13 |   14 | 11 | 17 | 14 | 18 |  9 | 13 |
+| Leon Ludwig                 |         382500 |    | 17 |   16 |  5 |  7 | 14 | 16 |  7 | 13 |
+| Miriam Kliemann             |         381868 |    | 17 |   16 |  5 |  7 | 14 | 16 |  7 | 13 |
+| Ina Meyer zu Altensejklfs   |         381736 |    | 17 |   16 |  5 |  7 | 14 | 16 |  7 | 13 |
+| Andre Scheiffer             |         357544 |    |  9 |   14 |  6 | 10 | 18 | 14 |  7 | 12 |
+| Cansu Kegici                |         342465 |    |  9 |   14 |  6 | 10 | 18 | 14 |  7 | 12 |
+| Michel Hubsch               |         380200 |    |  9 |   14 |  6 | 10 | 18 | 14 |  7 | 12 |
+| Leander Schnee              |         380917 |  1 | 18 |   17 | 18 | 10 | 13 |  5 |    | 10 |
+| Christian Kipp              |         381825 |  1 | 18 |   17 | 18 | 10 | 13 |  5 |    | 10 |
+| Chris Wolf                  |         353653 |    |  6 |   11 |  8 |  7 | 17 | 12 | 15 | 15 |
+| Thuong Anna Nguyen          |         359326 |    |  6 |   11 |  8 |  7 | 17 | 12 | 15 | 15 |
+| Georg Waernberger           |         371414 |    |    |   13 | 10 |  5 | 14 | 17 | 16 |  5 |
+| Fabio Schueff               |         359805 |    |    |   13 | 10 |  5 | 14 | 17 | 16 |  5 |
+| Waldo Heoriag Llanos        |         372281 |    |    |   14 |  8 | 12 | 17 | 16 | 12 | 16 |
+| Fransico Majon-Cabza Garcia |         369293 |    |    |   14 |  8 | 12 | 17 | 16 | 12 | 16 |
+| Lorenz Huber                |         387358 |    |    |      |    |    |    |    |  4 |    |
+| Richard                     |                |    |    |      |    |    |    |    |  4 |    |
+| Le Nam Do                   |         384060 |    |    |      |    |    |    |    |    | 20 |
+| Zoe Harder                  |                |    |    |      |    |    |    |    |    | 20 |
+| Bardia Hahne                |                |    |    |      |    |    |    |    |    |  9 |
+| Eike Jahnke                 |                |    |    |      |    |    |    |    |    |  9 |
+| Claudius L. S.              |                |    |    |      |    |    |    |    |    |  9 |
+| Shana                       |                |    |    |      |    |    |    |    |    | 10  |
+| Dawid                       |                |    |    |      |    |    |    |    |    | 10 |
+| Christoph                   |                |    |    |      |    |    |    |    |    | 10 |
